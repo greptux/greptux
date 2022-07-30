@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xtpwd
+- 👋 Hi, I’m @greptux
 - 👀 I’m interested in computer science, biology, robotics, aerospace engineering, European languages and classical music.
 - 🌱 I’m currently learning the basics of computer science, java and C programming language. On the artistic side of my personality, I am learning to play the violin.
 -    I'm also a polyglot to be. I love languages. I can speak Chinese(my mother tongue), English, Spanish and French. Now I'm learning German.
